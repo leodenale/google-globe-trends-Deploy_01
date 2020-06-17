@@ -16,7 +16,7 @@ This project is inspired by the wonderful [#metoorising][metoorising] project. W
 
 To deploy your personal Google Globe Trends instance, click on the **Deploy to Netlify** button below. You will be prompted to connect this instance to a Github repo. Follow through the steps and you should be able to view a working example with your own Netlify URL!
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/chrisrzhou/google-globe-trends)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/leodenale/google-globe-trends)
 
 ### Configurations
 
